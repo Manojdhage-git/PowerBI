@@ -1,0 +1,15 @@
+Create a column to check if the date is Weekend or Weekday,,,,,,,,Extract Year from a date column
+,,,,,,,,
+Calculate Age of order (Today - Order Date),,,,,,,,Extract Month Number
+,,,,,,,,
+Create a column for Start of Month,,,,,,,,Extract Month Name (Full)
+,,,,,,,,
+Create a column for End of Month,,,,,,,,Extract Day Number
+,,,,,,,,
+Get First Day of Year,,,,,,,,"Extract Day Name (Monday, Tuesday…)"
+,,,,,,,,
+Get Last Day of Year,,,,,,,,"Get Quarter (Q1, Q2, etc.)"
+,,,,,,,,
+,,,,,,,,Create a column for Week Number
+,,,,,,,,
+,,,,,,,,Convert date into format: DD-MMM-YYYY
